@@ -40,7 +40,7 @@ OAuth2 client secret: OVpS.SSppeoMJDlKqevSngsih8
 In another console, run
 
 ```
-hydra-consent-app-go
+hydra-consent
 ```
 run toker user for test
 ```
